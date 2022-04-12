@@ -1,2 +1,2 @@
 # Simple-ANN-with-tensorflow
-Simple ANN code
+Dam gate operation status prediction by water quality data in river system
